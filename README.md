@@ -7,6 +7,7 @@ A Flask based app which can be used to access current weather data for any locat
 
 # Execution of project:
 Run the following command in terminal:
+
     python3 app.py
 
 # Contribute:
