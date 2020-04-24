@@ -10,6 +10,9 @@ Run the following command in terminal:
 
     python3 app.py
 
+# Important:
+Kindly refrain from using my API while using this app. Since I have obtained a free subscription on openweathermap, there are restrictions on the number of API calls made per day. Before using this app, kindly ensure that you get your own API by signing in on openweathermap.
+
 # Contribute:
 Contributions, issues and feature requests are welcome!
 
